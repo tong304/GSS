@@ -24,7 +24,7 @@ Kariman N et al. (2016) pointed out in their study that these factors mainly inc
 
 Under this background, this study is also aimed to investigate the problem of the effects of factors on fertility intention. However, this study examined a more comprehensive range of factors, including age, gender, income,  health status, education level, work status, marital status, and so forth. This study mainly applied logistic regression to investigate the effects of these factors on the binary outcome response fertility intention to have children in future or not. And based on the inferences from the logistic model, this study described the key characteristics of groups of people who have high fertility intention as well as groups of people who have low fertility intention. It is hoped that the findings of the study could be helpful for policymakers to improve the conditions and fertility willingness of people. 
 
-The structure of the report is organized as following: Firstly, an introduction of whole study was given. Then the data used in this study was discussed followed by a description of logistic model used in the model section. At last, the main results and discussions are presented. A link to the source of the report file could be found in https://github.com/tong304/GSS/tonga3.pdf.
+The structure of the report is organized as following: Firstly, an introduction of whole study was given. Then the data used in this study was discussed followed by a description of logistic model used in the model section. At last, the main results and discussions are presented. A link to the source of the report file could be found in https://github.com/tong304/GSS/blob/main/tonga3.pdf.
 
 # Data
 
@@ -308,7 +308,7 @@ R package version 0.2.4. https://CRAN.R-project.org/package=ggpubr
 
 15. Statistic Canada(2019). General Social Survey - Family (GSS), Detailed information for 2017 (Cycle 31). https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=335816
 
-16. Testa, Maria Rita. (2014). "On the positive correlation between education and fertility intentions in Europe: Individual‐ and country‐level evidence,” Advances in Life Course Research 21: 2– 42.
+16. Testa, Maria Rita. (2014). “ On the positive correlation between education and fertility intentions in Europe: Individual‐ and country-level evidence,” Advances in Life Course Research 21: 28-42.
 
 17. Yihui Xie (2020). knitr: A General-Purpose Package for Dynamic Report Generation in R. R package version 1.27.
 
